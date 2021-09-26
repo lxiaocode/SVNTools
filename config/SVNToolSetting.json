@@ -1,0 +1,4 @@
+{
+    "enable": true,
+    "database": "mysql://mecha_svn_log_user:@10.11.10.200:3306/mecha_data_svn_log?charset=utf8"
+}
